@@ -9,7 +9,7 @@
   </head>
   <body>
     <header>
-      <h1>Welcome to MercelBay</h1>
+      <h1>Shop Korean Skincare at MercelBay. Fast Shipping </h1>
       <p>Your trusted premium Korean skincare outlet with fast shipping in Canada & USA!</p>
       <p><a href="https://www.mercelbay.com">Shop Now</a></p>
       <p><a href="https://www.mercelbay.com/cosrx">Explore COSRX</a></p>
