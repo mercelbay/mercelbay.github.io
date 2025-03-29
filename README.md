@@ -9,9 +9,13 @@
   </head>
   <body>
     <header>
-      <h1>Shop Korean Skincare at MercelBay. Fast Shipping </h1>
+      <h1>Welcome to MercelBay</h1>
       <p>Your trusted premium Korean skincare outlet with fast shipping in Canada & USA!</p>
       <p><a href="https://www.mercelbay.com">Shop Now</a></p>
+
+      <!-- Add image of COSRX Advanced Snail 92 All In One Cream -->
+      <img src="https://raw.githubusercontent.com/mercelbay/mercelbay.github.io/mercelbay-cosrx/cosrx-advanced-snail-92-all-in-one-cream-hydrating-skin-repair-mercelbay%201.jpg" alt="COSRX Advanced Snail 92 All In One Cream - Hydrating Skin Repair" width="300" height="400">
+
       <p><a href="https://www.mercelbay.com/cosrx">Explore COSRX</a></p>
       <p><a href="https://www.mercelbay.com/korean-skincare">Discover Korean Skincare</a></p>
       <p><a href="https://www.mercelbay.com/korean-skincare-montreal">Korean Skincare in Montreal</a></p>
