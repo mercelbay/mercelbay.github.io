@@ -9,8 +9,8 @@
   </head>
   <body>
     <header>
-      <h1>Welcome to MercelBay</h1>
-      <p>Your trusted premium Korean skincare outlet with fast shipping in Canada & USA!</p>
+      <h1>Korean-Skin-Care Outlet in USA & Canada </h1>
+      <h2>Your trusted premium Korean skin-care on-line Shop  with fast shipping in USA & Canada !</h2>
       <p><a href="https://www.mercelbay.com">Shop Now</a></p>
 
       <!-- Add image of COSRX Advanced Snail 92 All In One Cream -->
