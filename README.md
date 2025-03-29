@@ -6,7 +6,7 @@
     <meta name="description" content="MercelBay - Trusted Premium Korean Skincare with Fast Shipping across Canada & USA. Shop top brands like COSRX, Beauty of Joseon, and more.">
     <meta name="keywords" content="MercelBay, Korean skincare, fast shipping, COSRX, Beauty of Joseon, skincare products, skincare consultation">
     <meta name="robots" content="index, follow">
-    <title>MercelBay - Trusted Premium Korean Skincare</title>
+    <title>MercelBay - Trusted Premium Korean Skin care Outlet </title>
   </head>
   <body>
     <header>
